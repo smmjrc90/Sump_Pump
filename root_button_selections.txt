@@ -1,0 +1,5 @@
+1,root,Sump Pump,toggle(sumpPump)
+2,root,Test Email,sendEmail("steve.miller.uwm@gmail.com, "Test Subject", "Test Body")
+7,root,Create Tool,NULLnewTool(root, "Create New Tool", 500, 500)
+8,root,Select Data,ms_sql_select(root, "Select Data", 500, 500, sql_connection, "ms_sql_selection.txt"
+9,root,Test,placeholder()
